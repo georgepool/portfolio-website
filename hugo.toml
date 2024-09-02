@@ -1,0 +1,4 @@
+baseURL = 'https://georgepool.com/'
+languageCode = 'en-uk'
+title = 'George Pool'
+theme = ["PaperMod"]

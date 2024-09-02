@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>George Pool</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on George Pool</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 02 Sep 2024 18:12:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>http://localhost:1313/blogs/my-first-blog/</link>
+      <pubDate>Mon, 02 Sep 2024 18:12:00 +0100</pubDate>
+      <guid>http://localhost:1313/blogs/my-first-blog/</guid>
+      <description>This is bold text, and this is emphasised text</description>
+    </item>
+  </channel>
+</rss>
