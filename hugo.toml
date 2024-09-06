@@ -1,4 +1,4 @@
-baseURL = 'https://georgepool.com/'
+baseURL = 'https://georgepool.github.io/portfolio-website/'
 languageCode = 'en-uk'
 title = 'George Pool'
 theme = 'PaperMod'
