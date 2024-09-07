@@ -10,4 +10,4 @@ I have completed SWEng internships at [Sourceful (summer 2023)](https://sourcefu
 
 I also like to write and you'll be able to find some blogs on here.
 
-Find out more about me (including my face) on my [LinkedIn](https://linkedin.com/in/george-pool)
+Find out more about me (including my face) on my [LinkedIn](https://linkedin.com/in/georgepool)

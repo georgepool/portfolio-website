@@ -3,11 +3,10 @@ languageCode = 'en-uk'
 title = 'George Pool'
 theme = 'PaperMod'
 
-[deployment]
-
-[[deployment.targets]]
-name = "production"
-URL = "gs://georgepool.com"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://linkedin.com/in/georgepool"
 
 [menu]
   [[menu.main]]
@@ -21,3 +20,9 @@ URL = "gs://georgepool.com"
     name = "Blog"
     url = "/blogs/"
     weight = 2
+
+  [[menu.main]]
+    identifier = "project"
+    name = "Part II Project"
+    url = "/part-ii-project/"
+    weight = 3

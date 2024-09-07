@@ -8,4 +8,4 @@ I like
 - when people enjoy 
 
 I dislike
-- when people are chronically late
+- when people hate
