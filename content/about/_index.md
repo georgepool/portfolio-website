@@ -1,7 +1,6 @@
 +++
 title = 'About'
 date = 2024-09-07T21:58:06+01:00
-draft = true
 +++
 
 I'm George, a 3rd year Compsci @ Cambridge.
