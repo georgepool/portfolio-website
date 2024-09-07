@@ -3,16 +3,27 @@ languageCode = 'en-uk'
 title = 'George Pool'
 theme = 'PaperMod'
 
-[[params.social]]
-  name = "LinkedIn"
-  icon = "linkedin"
-  url = "https://linkedin.com/in/georgepool"
+[params]
+  defaultTheme = "light"
+
+[params.profileMode]
+  enabled = true
+  title = "George Pool"
+  subtitle = "I'm George, a 3rd year Compsci @ Emmanuel College, Cambridge"
+  imageUrl = "https://media.licdn.com/dms/image/v2/D4E03AQEVhR41EjaRLw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711010194637?e=1730937600&v=beta&t=Or4HpLr6gL4PDLSE4YKI2jBdi9MBpjBLMigFSFfJYKM"
+  imageTitle = "Portrait of George Pool"
+  imageWidth = 120
+  imageHeight = 120
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/georgepool"
 
 [menu]
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/"
+    url = "/about/"
     weight = 1
   
   [[menu.main]]
