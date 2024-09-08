@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://georgepool.github.io/portfolio-website/about/</loc>
+    <loc>http://localhost:1313/portfolio-website/about/</loc>
     <lastmod>2024-09-07T21:58:06+01:00</lastmod>
   </url><url>
-    <loc>https://georgepool.github.io/portfolio-website/</loc>
+    <loc>http://localhost:1313/portfolio-website/</loc>
     <lastmod>2024-09-07T21:58:06+01:00</lastmod>
   </url><url>
-    <loc>https://georgepool.github.io/portfolio-website/blogs/</loc>
+    <loc>http://localhost:1313/portfolio-website/blogs/likes-and-dislikes/</loc>
     <lastmod>2024-09-06T23:44:00+01:00</lastmod>
   </url><url>
-    <loc>https://georgepool.github.io/portfolio-website/categories/</loc>
+    <loc>http://localhost:1313/portfolio-website/blogs/</loc>
+    <lastmod>2024-09-06T23:44:00+01:00</lastmod>
   </url><url>
-    <loc>https://georgepool.github.io/portfolio-website/part-ii-project/</loc>
+    <loc>http://localhost:1313/portfolio-website/categories/</loc>
   </url><url>
-    <loc>https://georgepool.github.io/portfolio-website/tags/</loc>
+    <loc>http://localhost:1313/portfolio-website/part-ii-project/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio-website/tags/</loc>
   </url>
 </urlset>
