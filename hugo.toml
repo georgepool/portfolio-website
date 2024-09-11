@@ -6,6 +6,10 @@ theme = 'PaperMod'
 [params]
   defaultTheme = "light"
 
+[params.meta]
+  favicon = true
+
+
 [params.profileMode]
   enabled = true
   title = "George Pool"
