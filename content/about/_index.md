@@ -26,6 +26,6 @@ Outside of my technical side, I am interested in:
 - Filmmaking (although [I've never gotten close to finishing a film](https://x.com/barbieheimer/status/1830760816221561215))
 - Diversity in Higher Education and Tech
 - Racquet sports (currently getting into padel)
-- Speaking
+- Speaking (still pretty crap at it)
 
 Currently more active on [LinkedIn](https://linkedin.com/in/georgepool)
