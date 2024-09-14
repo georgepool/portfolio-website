@@ -7,9 +7,9 @@ Supervised by [Michael Dales](https://mynameismwd.org/), [Patrick Ferris](https:
 Original project idea page [here](https://anil.recoil.org/ideas/effective-geospatial-code/)
 
 ### 100 word overview:
-Geospatial processing is crucial in fields like environmental science but is tricky due to the scale of the data. To help make this processing easier, my project is to create a GDAL wrapper in OCaml which will do common geospatial operations such as:
+Geospatial processing is crucial in fields like environmental science but is tricky due to the scale of the data. My project will help make this processing easier by creating a GDAL wrapper in OCaml which will do common geospatial tasks such as:
 
-- Deciding if data sets overlap
+- Deciding if data sets overlap and allowing an intersection / union of these
 - Deciding whether you should rasterize vector layers
 - Efficient memory management of large geospatial datasets
 
