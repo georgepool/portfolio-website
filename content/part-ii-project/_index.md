@@ -1,5 +1,5 @@
 ---
-title: "Effective Geospatial code in OCaml"
+title: "Effective geospatial code in OCaml"
 ---
 
 Supervised by [Michael Dales](https://mynameismwd.org/), [Patrick Ferris](https://patrick.sirref.org/), and [Anil Madhavapeddy](https://anil.recoil.org/)

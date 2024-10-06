@@ -16,7 +16,7 @@ Academically, I'm interested in a wide range of areas. I like to see how ideas i
 
 I'm currently working on the following at Cambridge:
 - [My Part II Project]({{<relref "part-ii-project/_index.md">}})
-- Cambridge Diversity in Tech - President (2024)
+- [Cambridge Diversity in Tech - President (2024)](https://www.camdiversitytech.org/)
 - Cambridge Black Ventures - Tech Officer (2024)
 - [Emma Film Soc - Co-President (2023)](https://instagram.com/emmafilmsoc/)
 - [ECSU - Racial Equalities Officer (2024)](/images/RunnerUp_GeorgePool.png)
