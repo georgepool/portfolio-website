@@ -14,7 +14,7 @@ theme = 'PaperMod'
   enabled = true
   title = "George Pool"
   subtitle = "I'm George, a 3rd year Compsci @ Emmanuel College, Cambridge"
-  imageUrl = "https://media.licdn.com/dms/image/v2/D4E03AQEVhR41EjaRLw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711010194637?e=1730937600&v=beta&t=Or4HpLr6gL4PDLSE4YKI2jBdi9MBpjBLMigFSFfJYKM"
+  imageUrl = "android-chrome-512x512.png"
   imageTitle = "Portrait of George Pool"
   imageWidth = 120
   imageHeight = 120
